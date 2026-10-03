@@ -47,9 +47,16 @@ Windows:
 
 pip install -r requirements.txt
 
-5. Add the required model files
+5. Download the required model files
 
-Place the required trained model files inside the "model" folder.
+Download the trained model files from Google Drive:
+
+[Download PlantCare AI Models](https://drive.google.com/drive/folders/1SItGeuRQMv8Hbo9tonBfOdTVVt2wTbxN?usp=sharing)
+
+After downloading, place both files inside the `model` folder:
+
+- plant_disease_model.keras
+- leaf_validator.keras
 
 6. Run the application
 
